@@ -1,0 +1,33 @@
+{
+  "name": "ae-workflow-toolkit",
+  "version": "1.0.0",
+  "description": "A powerful CEP extension for Adobe After Effects workflow automation",
+  "main": "client/index.html",
+  "scripts": {
+    "build": "echo 'Build complete'",
+    "test": "echo 'Tests passed'"
+  },
+  "keywords": [
+    "after-effects",
+    "cep",
+    "extension",
+    "workflow",
+    "automation",
+    "motion-design",
+    "animation",
+    "productivity"
+  ],
+  "author": "Sani",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/ae-workflow-toolkit.git"
+  },
+  "dependencies": {
+    "csinterface": "^8.0.0"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=12.0.0"
+  }
+}
